@@ -5,7 +5,7 @@
 - Ghiffari Muhammad (12010223140015)
 - Muhammad Indra Mulya (12010223140067)
 
-- 
+ 
 - **Program Studi:** S1 Bisnis Digital Fakultas Ekonomika dan Bisnis Universitas Diponegoro
 
 ## 1. Lembar Rencana Data (1 Halaman)
